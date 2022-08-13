@@ -1,6 +1,6 @@
 Daniel Slutsky, a mathematician and a data-science consultant
 
-## Current projects
+## Projects
 * co-organizing the [Scicloj community](https://scicloj.github.io/), where Clojure developers collaborate on building a few core projects of the emerging Clojure data stack
 * currently focusing on the [dev & study groups](https://scicloj.github.io/docs/community/groups/)
 
@@ -11,6 +11,6 @@ Daniel Slutsky, a mathematician and a data-science consultant
   * [Viz.clj](https://scicloj.github.io/viz.clj/) - a work-in-progress exploration of data visualization APIs
   * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
 
-## Contact:
+## Contact
 * Daniel Slutsky on [the Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/) 
 * [daslu_](https://twitter.com/daslu_) on Twitter.
