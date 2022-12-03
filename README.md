@@ -7,7 +7,8 @@ Daniel Slutsky, a mathematician and a data-science consultant
 * co-maintaining the following repos:
   * [ClojisR](https://github.com/scicloj/clojisr) - a bridge from Clojure to R
   * [Notespace](https://github.com/scicloj/notespace) (on hold) - a literate programming and data visualization tool - has been used in the community for a couple of years, and served as a test bed of multiple variations of the "namespace as a notebook" idea
-  * [Clay](https://scicloj.github.io/clay/) - a continuation of some of the Notespace ideas, creating a compatibility layer with other relevant tools 
+  * [Kindly](https://scicloj.github.io/kindly) - a common ground for Clojure literate programming
+  * [Clay](https://scicloj.github.io/clay/) - a continuation of some of the Notespace ideas, a minimalistic Kindly-compatible tool for data visualization and literate programming
   * [Viz.clj](https://scicloj.github.io/viz.clj/) - a work-in-progress exploration of data visualization APIs
   * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
 
