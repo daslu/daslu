@@ -10,7 +10,9 @@ Daniel Slutsky, a mathematician and a data-science consultant
   * [Kindly](https://scicloj.github.io/kindly) - a common ground for Clojure literate programming
   * [Clay](https://scicloj.github.io/clay/) - a continuation of some of the Notespace ideas, a minimalistic Kindly-compatible tool for data visualization and literate programming
   * [Viz.clj](https://scicloj.github.io/viz.clj/) - a proof-of-concept exploration of data visualization APIs
+  * [Noj](https://github.com/scicloj/noj) - an opinionated way to use the emerging Clojure data stack, composinga few of its main libraries (WIP)
   * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
+  
 
 ## Contact
 * Daniel Slutsky on [the Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/) 
