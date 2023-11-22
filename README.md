@@ -3,6 +3,7 @@ Daniel Slutsky, a mathematician and a data-science consultant
 ## Projects
 * co-organizing the [Scicloj community](https://scicloj.github.io/), where Clojure developers collaborate on building a few core projects of the emerging Clojure data stack
 * organizing [Jointprob](https://scicloj.github.io/docs/community/groups/jointprob/), a study community for Bayesian statistics and probabilistic programming 
+* organizing a local study group about yoga and anatomy
 
 * co-maintaining the following repos:
   * [ClojisR](https://github.com/scicloj/clojisr) - a bridge from Clojure to R
