@@ -7,8 +7,8 @@ Daniel Slutsky, a mathematician and a data-science consultant
 
 * co-created & co-maintaining the following tools and libraries:
   * [ClojisR](https://github.com/scicloj/clojisr) - a bridge from Clojure to R
-  * [Kindly](https://scicloj.github.io/kindly) - a common ground for Clojure literate programming
-  * [Clay](https://scicloj.github.io/clay/) - a continuation of some of the Notespace ideas, a minimalistic Kindly-compatible tool for data visualization and literate programming
+  * [Kindly]([https://scicloj.github.io/kindly](https://scicloj.github.io/kindly-noted/)) - a standard for requesting Clojure data visualizations
+  * [Clay](https://scicloj.github.io/clay/) - a minimalistic Kindly-compatible tool for data visualization and literate programming
   * [Noj](https://github.com/scicloj/noj) - an opinionated way to use the emerging Clojure data stack, composing a few of its main libraries (WIP)
   * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
   * [note-to-test](https://github.com/scicloj/note-to-test) - Generating tests from Clojure code examples (WIP)
