@@ -12,7 +12,7 @@ Daniel Slutsky, a mathematician and a data-science consultant
   * [Noj](https://github.com/scicloj/noj) - an opinionated way to use the emerging Clojure data stack, composing a few of its main libraries (WIP)
   * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
   * [note-to-test](https://github.com/scicloj/note-to-test) - Generating tests from Clojure code examples (WIP)
-
+  * [cmdstan-clj](https://github.com/scicloj/cmdstan-clj) - Using the Stan statistical modelling language from Clojure using the CmdStan CLI
 
 
 * co-created the following tools and libraries (currently on hold)
