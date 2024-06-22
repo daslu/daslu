@@ -10,6 +10,7 @@ Daniel Slutsky, a mathematician and a data-science consultant
   * [Kindly](https://scicloj.github.io/kindly-noted/) - a standard for requesting Clojure data visualizations
   * [Clay](https://scicloj.github.io/clay/) - a minimalistic Kindly-compatible tool for data visualization and literate programming
   * [Noj](https://github.com/scicloj/noj) - an opinionated way to use the emerging Clojure data stack, composing a few of its main libraries (WIP)
+  * [Hanamicloth](https://scicloj.github.io/hanamicloth) - Hanamicloth is a composition of Hanami data visualization templates and Tablecloth datasets
   * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
   * [note-to-test](https://github.com/scicloj/note-to-test) - Generating tests from Clojure code examples (WIP)
   * [cmdstan-clj](https://github.com/scicloj/cmdstan-clj) - Using the Stan statistical modelling language from Clojure using the CmdStan CLI
