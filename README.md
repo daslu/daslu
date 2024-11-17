@@ -20,4 +20,4 @@ Daniel Slutsky, a mathematician and a data-science consultant
 
 ## Contact
 * Daniel Slutsky on [the Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/) 
-* [daslu_](https://twitter.com/daslu_) on Twitter.
+* [daslu.bsky.social](https://bsky.app/profile/daslu.bsky.social) at Bluesky
