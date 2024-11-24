@@ -5,10 +5,10 @@ Daniel Slutsky, a mathematician and a data-science consultant
 * organizing [Jointprob](https://scicloj.github.io/docs/community/groups/jointprob/), a study community for Bayesian statistics and probabilistic programming 
 
 * co-created & co-maintaining the following tools and libraries:
-  * [ClojisR](https://github.com/scicloj/clojisr) - a bridge from Clojure to R
-  * [Kindly](https://scicloj.github.io/kindly-noted/) - a standard for requesting Clojure data visualizations
-  * [Clay](https://scicloj.github.io/clay/) - a minimalistic Kindly-compatible tool for data visualization and literate programming
   * [Noj](https://github.com/scicloj/noj) - an entry point for data science in Clojure
+  * [Clay](https://scicloj.github.io/clay/) - a minimalistic Kindly-compatible tool for data visualization and literate programming
+  * [Kindly](https://scicloj.github.io/kindly-noted/) - a standard for requesting Clojure data visualizations
+  * [ClojisR](https://github.com/scicloj/clojisr) - a bridge from Clojure to R
   * [Tableplot](https://scicloj.github.io/tableplot) - data visualization using easy layered graphics
   * [cmdstan-clj](https://github.com/scicloj/cmdstan-clj) - using the Stan statistical modelling language from Clojure using the CmdStan CLI
   * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
