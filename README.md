@@ -12,7 +12,7 @@ Daniel Slutsky, a mathematician and a data-science consultant
   * [Kindly](https://scicloj.github.io/kindly-noted/) - a standard for requesting Clojure data visualizations
   * [ClojisR](https://scicloj.github.io/clojisr) - a bridge from Clojure to R
   * [cmdstan-clj](https://scicloj.github.io/cmdstan-clj) - using the Stan statistical modelling language from Clojure using the CmdStan CLI
-  * [The Scicloj website](https://github.com/scicloj/scicloj.github.io)
+  * [The Scicloj website](https://scicloj.github.io)
 
 * co-created the following tools and libraries (currently on hold)
   * [Notespace](https://github.com/scicloj/notespace) - a literate programming and data visualization tool - has been used in the community for a couple of years, and served as a test bed of multiple variations of the "namespace as a notebook" idea
