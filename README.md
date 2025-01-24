@@ -10,7 +10,7 @@ Daniel Slutsky, a mathematician and a data-science consultant
   * [Tableplot](https://scicloj.github.io/tableplot) - data visualization using easy layered graphics
   * [Tablemath](https://scicloj.github.io/tablemath) (experimental) - table-friendly math and statistics
   * [Kindly](https://scicloj.github.io/kindly-noted/) - a standard for requesting Clojure data visualizations
-  * [Kind-Pyplot](https://scicloj.github.io/kind-pyplot/) - displaying Python plots with the Clojure Kindly standard
+  * [Kind-pyplot](https://scicloj.github.io/kind-pyplot/) - displaying Python plots with the Clojure Kindly standard
   * [ClojisR](https://scicloj.github.io/clojisr) - a bridge from Clojure to R
   * [cmdstan-clj](https://scicloj.github.io/cmdstan-clj) - using the Stan statistical modelling language from Clojure using the CmdStan CLI
   * [The Scicloj website](https://scicloj.github.io)
