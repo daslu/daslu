@@ -5,7 +5,7 @@ Daniel Slutsky, a mathematician and a data-science consultant
 * organized [Jointprob](https://scicloj.github.io/docs/community/groups/jointprob/), a study community for Bayesian statistics and probabilistic programming (currently on hold)
 
 * co-created & co-maintaining the following tools and libraries:
-  * [Noj](https://scicloj.github.io/noj) - an entry point for data science in Clojure
+  * [Noj](https://scicloj.github.io/noj) - a data science toolkit in Clojure
   * [Clay](https://scicloj.github.io/clay/) - a REPL-friendly tool for data visualization and literate programming
   * [Tableplot](https://scicloj.github.io/tableplot) - data visualization using easy layered graphics
   * [Tablemath](https://scicloj.github.io/tablemath) (experimental) - table-friendly math and statistics
