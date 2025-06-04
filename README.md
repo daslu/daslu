@@ -2,7 +2,10 @@ Daniel Slutsky, a mathematician and a data-science consultant
 
 ## Projects
 * community organizer the [Scicloj group](https://scicloj.github.io/), building a Clojure toolkit for data science
-* organized [Jointprob](https://scicloj.github.io/docs/community/groups/jointprob/), a study community for Bayesian statistics and probabilistic programming (currently on hold)
+  * coordinating the [open-source-mentorship](https://scicloj.github.io/docs/community/groups/open-source-mentoring/) program
+  * organizer of the various [study groups and dev groups](https://scicloj.github.io/docs/community/groups/)
+  * recently organized the [SciNoj Light #1](https://scicloj.github.io/scinoj-light-1/) conference 
+  * organized [Jointprob](https://scicloj.github.io/docs/community/groups/jointprob/), a study community for Bayesian statistics and probabilistic programming (currently on hold)
 
 * co-created & co-maintaining the following tools and libraries:
   * [Noj](https://scicloj.github.io/noj) - a data science toolkit in Clojure
