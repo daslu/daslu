@@ -1,4 +1,4 @@
-Daniel Slutsky, a mathematician and a data-science consultant
+Daniel Slutsky, a Clojure engineer and a data-science consultant
 
 ## Projects
 * community organizer the [Scicloj group](https://scicloj.github.io/), building a Clojure toolkit for data science
