@@ -12,7 +12,7 @@ Daniel Slutsky, a Clojure engineer and a data-science consultant
   * [Clay](https://scicloj.github.io/clay/) - a REPL-friendly tool for data visualization and literate programming
   * [Plotje](https://scicloj.github.io/plotje) - composable plotting
   * [Tableplot](https://scicloj.github.io/tableplot) - data visualization using easy layered graphics
-  * [Tablemath](https://scicloj.github.io/tablemath) (experimental) - table-friendly math and statistics
+  * [La Linea](https://scicloj.github.io/lalinea/) - linear algebra and complex numbers on top of dtype-next
   * [Kindly](https://scicloj.github.io/kindly-noted/) - a standard for requesting Clojure data visualizations
   * [Kind-pyplot](https://scicloj.github.io/kind-pyplot/) - displaying Python plots with the Clojure Kindly standard
   * [ClojisR](https://scicloj.github.io/clojisr) - a bridge from Clojure to R
@@ -21,6 +21,7 @@ Daniel Slutsky, a Clojure engineer and a data-science consultant
 
 * co-created the following tools and libraries (currently on hold)
   * [Notespace](https://github.com/scicloj/notespace) - a literate programming and data visualization tool - has been used in the community for a couple of years, and served as a test bed of multiple variations of the "namespace as a notebook" idea
+  * [Tablemath](https://scicloj.github.io/tablemath) (experimental) - table-friendly math and statistics
   * [Viz.clj](https://scicloj.github.io/viz.clj/) - a proof-of-concept exploration of data visualization APIs
   * [note-to-test](https://github.com/scicloj/note-to-test) - generating tests from Clojure code examples (WIP)
 
