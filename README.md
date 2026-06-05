@@ -4,7 +4,7 @@ Daniel Slutsky, a Clojure engineer and a data-science consultant
 * community organizer the [Scicloj group](https://scicloj.github.io/), building a Clojure toolkit for data science
   * coordinating the [open-source-mentorship](https://scicloj.github.io/docs/community/groups/open-source-mentoring/) program
   * organizer of the various [study groups and dev groups](https://scicloj.github.io/docs/community/groups/)
-  * recently organized the [SciNoj Light #1](https://scicloj.github.io/scinoj-light-1/) conference 
+  * recently organized the [SciNoj Light #1](https://scicloj.github.io/scinoj-light-1/) conference and the [Macroexpand 2025](https://scicloj.github.io/macroexpand-2025/) conferences 
   * organized [Jointprob](https://scicloj.github.io/docs/community/groups/jointprob/), a study community for Bayesian statistics and probabilistic programming (currently on hold)
 
 * co-created & co-maintaining the following tools and libraries:
