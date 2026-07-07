@@ -17,6 +17,8 @@ Daniel Slutsky, a Clojure engineer and a data-science consultant
   * [Kind-pyplot](https://scicloj.github.io/kind-pyplot/) - displaying Python plots with the Clojure Kindly standard
   * [ClojisR](https://scicloj.github.io/clojisr) - a bridge from Clojure to R
   * [cmdstan-clj](https://scicloj.github.io/cmdstan-clj) - using the Stan statistical modelling language from Clojure using the CmdStan CLI
+  * [Janqua](https://github.com/scicloj/janqua) - [Jank](https://jank-lang.org/) notebooks using [Quarto](https://quarto.org/)
+  * [Babqua](https://github.com/scicloj/babqua) - [Babashka](https://babashka.org/) notebooks using [Quarto](https://quarto.org/)
   * [The Scicloj website](https://scicloj.github.io)
 
 * co-created the following tools and libraries (currently on hold)
